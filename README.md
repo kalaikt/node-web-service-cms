@@ -1,2 +1,4 @@
 # node-web-service-cms
-Test Web service
+Rest web service
+
+Tech Stack: `Node, Express and mysql`
