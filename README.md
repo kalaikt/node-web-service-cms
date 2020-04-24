@@ -1,4 +1,4 @@
-# node-web-service-cms
-Rest web service
+# Rest Web Service
+Service development using node
 
 Tech Stack: `Node, Express and mysql`
